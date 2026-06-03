@@ -17,14 +17,14 @@
 
 | Category | Description |
 |----------|-------------|
-| [🌐 Networking](./networking/network-commands.md) | Basic network commands for connectivity and diagnostics |
-| [🔍 Scanning & Mapping](./scanning/nmap-mapping.md) | Port scanning, service detection, and network mapping |
-| [🖥️ Host Discovery](./host-discovery/host-discovery.md) | Finding live hosts on a network |
-| [🗺️ Routing](./routing/routing-commands.md) | Routing analysis and traffic tracing |
-| [🌍 Web Recon](./web/web-recon.md) | Web application reconnaissance tools |
-| [💥 Exploitation](./exploitation/exploitation-commands.md) | Basic exploitation frameworks (for lab use only) |
-| [🔑 Password Attacks](./passwords/password-attacks.md) | Password cracking and brute force tools |
-| [📡 Wireless](./wireless/wireless-commands.md) | Wi-Fi analysis and wireless tools |
+| [🌐 Networking](./first%20repo/network-commands.md) | Basic network commands for connectivity and diagnostics |
+| [🔍 Scanning & Mapping](./first%20repo/nmap-mapping.md) | Port scanning, service detection, and network mapping |
+| [🖥️ Host Discovery](./first%20repo/host-discovery.md) | Finding live hosts on a network |
+| [🗺️ Routing](./first%20repo/routing-commands.md) | Routing analysis and traffic tracing |
+| [🌍 Web Recon](./first%20repo/web-recon.md) | Web application reconnaissance tools |
+| [💥 Exploitation](./first%20repo/exploitation-commands.md) | Basic exploitation frameworks (for lab use only) |
+| [🔑 Password Attacks](./first%20repo/password-attacks.md) | Password cracking and brute force tools |
+| [📡 Wireless](./first%20repo/wireless-commands.md) | Wi-Fi analysis and wireless tools |
 
 ---
 
